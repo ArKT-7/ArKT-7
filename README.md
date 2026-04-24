@@ -22,4 +22,4 @@
 ---
 
 **⚡Want to chat or need help?**
-- ping me ~on [**`Telegram`**](https://telegram.me/ArKT_7)~ 😁</a> or just create an **`issue/discussion`** on any of my repo's here, I'll surely see it & reply! 😊
+- ping me on [**`Telegram`**](https://telegram.me/ArKT_7) 😁</a> or just create an **`issue/discussion`** on any of my repo's here, I'll surely see it & reply! 😊
